@@ -1,0 +1,23 @@
+# Kompilierte Dateien
+*.class
+out/
+build/
+bin/
+
+# IDE-Dateien
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+*.swp
+*.swo
+*~
+
+# OS-Dateien
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
